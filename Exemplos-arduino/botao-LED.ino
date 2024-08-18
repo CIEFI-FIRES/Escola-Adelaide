@@ -11,7 +11,7 @@
 // - A leitura é atualizada a cada 10 milissegundos para melhorar o desempenho da simulação.
 //
 // Autor:
-// - [Seu Nome]
+// Breno Fiussen
 //
 // Importante:
 // Certifique-se de que o LED e o sensor digital estejam corretamente conectados aos pinos designados. 
