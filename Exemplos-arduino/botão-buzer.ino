@@ -12,7 +12,7 @@
 // - A leitura é atualizada a cada 10 milissegundos para melhorar o desempenho da simulação.
 //
 // Autor:
-// - Breno Fiussen
+// Breno Fiussen
 //
 // Importante:
 // Certifique-se de que os pinos estejam corretamente conectados ao buzzer e ao sensor digital. 
